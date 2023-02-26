@@ -16,7 +16,6 @@ Based on the [standard mod template](https://github.com/Raicuparta/ow-mod-templa
    - Rename the files `TranslationMod.cs`, `TranslationMod.csproj`, `TranslationMod.csproj.user` inside the aptly named `TranslationMod` folder.
    - Save the project and rename the `TranslationMod.sln` file and the `TranslationMod` folder. (might need to be done outside Visual Studio).
      - If done outside of Visual Studio, you might need to edit the solution file in notepad to replace `TranslationMod` with the new folder name.
-// TODO: explain how to add custom fonts and use language fixer
 5. Try to compile the mod.
    - The mod compiled successfully? Great, that was the hard part! Now on to the excruciatingly long part.
 6. Edit the `Translation.xml` file to do the actual translation.
